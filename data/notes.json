@@ -1,0 +1,284 @@
+{
+  "notes": {
+    "403": {
+      "vault": {
+        "fsPath": "vault"
+      },
+      "fname": "403",
+      "id": "403",
+      "title": "This page has not yet sprouted",
+      "schemaStub": false,
+      "type": "note",
+      "updated": 1671349456446,
+      "created": 1671349456446,
+      "desc": "",
+      "links": [],
+      "anchors": {},
+      "children": [],
+      "parent": null,
+      "data": {}
+    },
+    "wn8PE1RhG0znK1alrGFYv": {
+      "id": "wn8PE1RhG0znK1alrGFYv",
+      "title": "Home",
+      "desc": "",
+      "updated": 1671344431778,
+      "created": 1631901573363,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "49b71fa7e2a67f6e7e2c5d3a15ea4a02",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "wn8PE1RhG0znK1alrGFYv",
+            "vaultName": "vault"
+          },
+          "value": "compbio",
+          "alias": "compbio",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 4,
+              "offset": 101
+            },
+            "end": {
+              "line": 7,
+              "column": 15,
+              "offset": 112
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "compbio"
+          }
+        }
+      ],
+      "anchors": {
+        "welcome": {
+          "type": "header",
+          "text": "Welcome!",
+          "value": "welcome",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "kl2scfurahpplp0nahf6fj7"
+      ],
+      "parent": null,
+      "data": {}
+    },
+    "kl2scfurahpplp0nahf6fj7": {
+      "id": "kl2scfurahpplp0nahf6fj7",
+      "title": "Computational Biology",
+      "desc": "",
+      "updated": 1671349216017,
+      "created": 1671338888267,
+      "custom": {},
+      "fname": "compbio",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "06ad2401b7797e8270888e089a1e01dc",
+      "links": [
+        {
+          "from": {
+            "fname": "root",
+            "vaultName": "vault"
+          },
+          "type": "backlink",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 4,
+              "offset": 101
+            },
+            "end": {
+              "line": 7,
+              "column": 15,
+              "offset": 112
+            },
+            "indent": []
+          },
+          "value": "compbio",
+          "alias": "compbio"
+        }
+      ],
+      "anchors": {
+        "definition": {
+          "type": "header",
+          "text": "Definition",
+          "value": "definition",
+          "line": 7,
+          "column": 0,
+          "depth": 3
+        },
+        "intersecting-areas": {
+          "type": "header",
+          "text": "Intersecting Areas",
+          "value": "intersecting-areas",
+          "line": 12,
+          "column": 0,
+          "depth": 2
+        },
+        "subfields": {
+          "type": "header",
+          "text": "Subfields",
+          "value": "subfields",
+          "line": 19,
+          "column": 0,
+          "depth": 2
+        }
+      },
+      "children": [],
+      "parent": "wn8PE1RhG0znK1alrGFYv",
+      "data": {}
+    }
+  },
+  "domains": [
+    {
+      "id": "wn8PE1RhG0znK1alrGFYv",
+      "title": "Home",
+      "desc": "",
+      "updated": 1671344431778,
+      "created": 1631901573363,
+      "custom": {
+        "nav_order": 0,
+        "permalink": "/"
+      },
+      "fname": "root",
+      "type": "note",
+      "vault": {
+        "fsPath": "vault"
+      },
+      "contentHash": "49b71fa7e2a67f6e7e2c5d3a15ea4a02",
+      "links": [
+        {
+          "type": "wiki",
+          "from": {
+            "fname": "root",
+            "id": "wn8PE1RhG0znK1alrGFYv",
+            "vaultName": "vault"
+          },
+          "value": "compbio",
+          "alias": "compbio",
+          "position": {
+            "start": {
+              "line": 7,
+              "column": 4,
+              "offset": 101
+            },
+            "end": {
+              "line": 7,
+              "column": 15,
+              "offset": 112
+            },
+            "indent": []
+          },
+          "xvault": false,
+          "sameFile": false,
+          "to": {
+            "fname": "compbio"
+          }
+        }
+      ],
+      "anchors": {
+        "welcome": {
+          "type": "header",
+          "text": "Welcome!",
+          "value": "welcome",
+          "line": 8,
+          "column": 0,
+          "depth": 1
+        }
+      },
+      "children": [
+        "kl2scfurahpplp0nahf6fj7"
+      ],
+      "parent": null,
+      "data": {},
+      "body": "\n# Welcome!\n\nThis is the home of my published notes on the web!\n\nChoose your subject of interest:\n1. [[compbio]]"
+    }
+  ],
+  "noteIndex": {
+    "id": "wn8PE1RhG0znK1alrGFYv",
+    "title": "Home",
+    "desc": "",
+    "updated": 1671344431778,
+    "created": 1631901573363,
+    "custom": {
+      "nav_order": 0,
+      "permalink": "/"
+    },
+    "fname": "root",
+    "type": "note",
+    "vault": {
+      "fsPath": "vault"
+    },
+    "contentHash": "49b71fa7e2a67f6e7e2c5d3a15ea4a02",
+    "links": [
+      {
+        "type": "wiki",
+        "from": {
+          "fname": "root",
+          "id": "wn8PE1RhG0znK1alrGFYv",
+          "vaultName": "vault"
+        },
+        "value": "compbio",
+        "alias": "compbio",
+        "position": {
+          "start": {
+            "line": 7,
+            "column": 4,
+            "offset": 101
+          },
+          "end": {
+            "line": 7,
+            "column": 15,
+            "offset": 112
+          },
+          "indent": []
+        },
+        "xvault": false,
+        "sameFile": false,
+        "to": {
+          "fname": "compbio"
+        }
+      }
+    ],
+    "anchors": {
+      "welcome": {
+        "type": "header",
+        "text": "Welcome!",
+        "value": "welcome",
+        "line": 8,
+        "column": 0,
+        "depth": 1
+      }
+    },
+    "children": [
+      "kl2scfurahpplp0nahf6fj7"
+    ],
+    "parent": null,
+    "data": {},
+    "body": "\n# Welcome!\n\nThis is the home of my published notes on the web!\n\nChoose your subject of interest:\n1. [[compbio]]"
+  },
+  "vaults": [
+    {
+      "fsPath": "vault"
+    }
+  ]
+}
