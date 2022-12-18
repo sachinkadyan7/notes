@@ -90,7 +90,7 @@ publishing:
     copyAssets: true
     siteHierarchies:
         - root
-    enableSiteLastModified: true
+    enableSiteLastModified: false
     siteRootDir: docs
     siteUrl: https://sachinkadyan7.github.io
     enableFrontmatterTags: true
